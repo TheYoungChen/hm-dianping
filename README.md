@@ -183,4 +183,6 @@ hm-dianping/
 
 ---
 
-**注意**：首次启动时请确保MySQL和Redis服务正常运行，并正确配置数据库连接信息。 
+**注意**：
+首次启动时请确保MySQL和Redis服务正常运行，并正确配置数据库连接信息。 
+运行前导入src/main/resources/db/hmdp.sql 避免产生错误
